@@ -1,0 +1,11 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Resumen}{1}% 
+\contentsline {section}{\numberline {2}Balanced Scorecard}{2}% 
+\contentsline {subsection}{\numberline {2.1}Perspectiva financiera}{3}% 
+\contentsline {subsection}{\numberline {2.2}Perspectiva de enfoque en el cliente}{4}% 
+\contentsline {subsection}{\numberline {2.3}Perspectiva de procesos internos}{5}% 
+\contentsline {subsection}{\numberline {2.4}Perspectiva de aprendizaje y crecimiento}{6}% 
+\contentsline {section}{\numberline {3}Desarrollo}{7}% 
+\contentsline {subsection}{\numberline {3.1}Instalar herramienta Qlik Sense}{7}% 
+\contentsline {subsection}{\numberline {3.2}Cargar datos con Qlik Sense}{9}% 
+\contentsline {section}{\numberline {4}Bibliograf\IeC {\'\i }a}{13}% 
